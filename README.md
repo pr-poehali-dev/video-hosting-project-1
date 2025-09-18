@@ -1,0 +1,3 @@
+# video-hosting-project-1
+
+Initial repository setup for pr-poehali-dev/video-hosting-project-1
