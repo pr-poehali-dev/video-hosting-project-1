@@ -62,6 +62,17 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				}
+				youtube: {
+					red: '#FF0000',
+					'dark-gray': '#282828',
+					'light-gray': '#AAAAAA',
+					'bg-dark': '#0F0F0F',
+					'text-primary': '#FFFFFF',
+					'text-secondary': '#AAAAAA'
+				}
+			},
+			fontFamily: {
+				sans: ['Roboto', 'system-ui', 'sans-serif']
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
